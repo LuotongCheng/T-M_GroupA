@@ -1,0 +1,140 @@
+
+R version 4.3.2 (2023-10-31) -- "Eye Holes"
+Copyright (C) 2023 The R Foundation for Statistical Computing
+Platform: x86_64-apple-darwin20 (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+[R.app GUI 1.80 (8281) x86_64-apple-darwin20]
+
+[History restored from /Users/chengluotong/.Rapp.history]
+
+> library(stylo)
+
+### stylo version: 0.7.4 ###
+
+If you plan to cite this software (please do!), use the following reference:
+    Eder, M., Rybicki, J. and Kestemont, M. (2016). Stylometry with R:
+    a package for computational text analysis. R Journal 8(1): 107-121.
+    <https://journal.r-project.org/archive/2016/RJ-2016-007/index.html>
+
+To get full BibTeX entry, type: citation("stylo")
+> setwd("/Users/chengluotong/Desktop/presidential_speeches")
+> stylo()
+using current directory...
+Performing no sampling (using entire text as sample)
+
+slicing input text into tokens...
+
+
+turning words into features, e.g. char n-grams (if applicable)...
+
+Total nr. of samples in the corpus: 45
+
+The corpus consists of 4003009 tokens
+
+processing  45  text samples
+....
+combining frequencies into a table...
+
+
+culling @ 20	available features (words) 4942
+Calculating z-scores... 
+
+Calculating classic Delta distances...
+MFW used: 
+100 
+Processing metadata...
+
+
+Assigning plot colors according to file names...
+
+200 
+Processing metadata...
+
+
+Assigning plot colors according to file names...
+
+300 
+Processing metadata...
+
+
+Assigning plot colors according to file names...
+
+400 
+Processing metadata...
+
+
+Assigning plot colors according to file names...
+
+500 
+Processing metadata...
+
+
+Assigning plot colors according to file names...
+
+600 
+Processing metadata...
+
+
+Assigning plot colors according to file names...
+
+700 
+Processing metadata...
+
+
+Assigning plot colors according to file names...
+
+800 
+Processing metadata...
+
+
+Assigning plot colors according to file names...
+
+900 
+Processing metadata...
+
+
+Assigning plot colors according to file names...
+
+1000 
+Processing metadata...
+
+
+Assigning plot colors according to file names...
+
+ 
+
+Function call:
+stylo()
+
+Depending on your chosen options, some results should have been written
+into a few files; you should be able to find them in your current
+(working) directory. Usually, these include a list of words/features
+used to build a table of frequencies, the table itself, a file containing
+recent configuration, etc.
+
+Advanced users: you can pipe the results to a variable, e.g.:
+	 my.discovery = stylo()
+this will create a class "my.discovery" containing some presumably
+interesting stuff. The class created, you can type, e.g.:
+	 summary(my.discovery)
+to see which variables are stored there and how to use them.
+
+
+for suggestions how to cite this software, type: citation("stylo")
+
+
+> 

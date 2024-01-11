@@ -1,0 +1,349 @@
+Source,Target,Weight,Type
+Abraham Lincoln,Andrew Jackson,6,undirected
+Abraham Lincoln,Andrew Johnson,22,undirected
+Abraham Lincoln,Calvin Coolidge,4,undirected
+Abraham Lincoln,Franklin Pierce,2,undirected
+Abraham Lincoln,Theodore Roosevelt,26,undirected
+Abraham Lincoln,Woodrow Wilson,6,undirected
+Andrew Jackson,Abraham Lincoln,6,undirected
+Andrew Jackson,Andrew Johnson,26,undirected
+Andrew Jackson,Franklin Pierce,33,undirected
+Andrew Jackson,George Washington,30,undirected
+Andrew Jackson,James Buchanan,23,undirected
+Andrew Jackson,James K. Polk,50,undirected
+Andrew Jackson,James Madison,15,undirected
+Andrew Jackson,James Monroe,26,undirected
+Andrew Jackson,John Adams,20,undirected
+Andrew Jackson,John Quincy Adams,2,undirected
+Andrew Jackson,John Tyler,25,undirected
+Andrew Jackson,Martin Van Buren,58,undirected
+Andrew Jackson,Millard Fillmore,7,undirected
+Andrew Jackson,Thomas Jefferson,8,undirected
+Andrew Jackson,William Harrison,30,undirected
+Andrew Jackson,Zachary Taylor,3,undirected
+Andrew Johnson,Abraham Lincoln,22,undirected
+Andrew Johnson,Andrew Jackson,26,undirected
+Andrew Johnson,Franklin Pierce,9,undirected
+Andrew Johnson,James Buchanan,2,undirected
+Andrew Johnson,Rutherford B. Hayes,2,undirected
+Andrew Johnson,Ulysses S. Grant,23,undirected
+Andrew Johnson,William Harrison,2,undirected
+Barack Obama,Bill Clinton,40,undirected
+Barack Obama,Donald Trump,19,undirected
+Barack Obama,George H. W. Bush,20,undirected
+Barack Obama,George W. Bush,32,undirected
+Barack Obama,Joe Biden,50,undirected
+Barack Obama,Ronald Reagan,58,undirected
+Benjamin Harrison,Chester A. Arthur,1,undirected
+Benjamin Harrison,Grover Cleveland,47,undirected
+Benjamin Harrison,James A. Garfield,3,undirected
+Benjamin Harrison,Theodore Roosevelt,1,undirected
+Benjamin Harrison,Ulysses S. Grant,12,undirected
+Benjamin Harrison,William McKinley,11,undirected
+Benjamin Harrison,William Taft,10,undirected
+Bill Clinton,Barack Obama,40,undirected
+Bill Clinton,George H. W. Bush,9,undirected
+Bill Clinton,George W. Bush,12,undirected
+Bill Clinton,Joe Biden,10,undirected
+Bill Clinton,Ronald Reagan,15,undirected
+Calvin Coolidge,Abraham Lincoln,4,undirected
+Calvin Coolidge,Franklin D. Roosevelt,1,undirected
+Calvin Coolidge,Herbert Hoover,45,undirected
+Calvin Coolidge,James A. Garfield,1,undirected
+Calvin Coolidge,Theodore Roosevelt,40,undirected
+Calvin Coolidge,Warren G. Harding,4,undirected
+Calvin Coolidge,William McKinley,6,undirected
+Calvin Coolidge,Woodrow Wilson,8,undirected
+Chester A. Arthur,Benjamin Harrison,1,undirected
+Chester A. Arthur,Grover Cleveland,29,undirected
+Chester A. Arthur,James A. Garfield,1,undirected
+Chester A. Arthur,Millard Fillmore,1,undirected
+Chester A. Arthur,Rutherford B. Hayes,26,undirected
+Chester A. Arthur,Ulysses S. Grant,18,undirected
+Chester A. Arthur,William McKinley,24,undirected
+Chester A. Arthur,William Taft,11,undirected
+Donald Trump,Barack Obama,19,undirected
+Donald Trump,George H. W. Bush,4,undirected
+Donald Trump,Joe Biden,32,undirected
+Donald Trump,Ronald Reagan,7,undirected
+Dwight D. Eisenhower,Franklin D. Roosevelt,16,undirected
+Dwight D. Eisenhower,James A. Garfield,1,undirected
+Dwight D. Eisenhower,John F. Kennedy,30,undirected
+Dwight D. Eisenhower,Ronald Reagan,13,undirected
+Dwight D. Eisenhower,Theodore Roosevelt,1,undirected
+Dwight D. Eisenhower,Warren G. Harding,6,undirected
+Franklin D. Roosevelt,Calvin Coolidge,1,undirected
+Franklin D. Roosevelt,Dwight D. Eisenhower,16,undirected
+Franklin D. Roosevelt,Gerald Ford,7,undirected
+Franklin D. Roosevelt,Harry S. Truman,21,undirected
+Franklin D. Roosevelt,Herbert Hoover,19,undirected
+Franklin D. Roosevelt,John F. Kennedy,47,undirected
+Franklin D. Roosevelt,Lyndon B. Johnson,7,undirected
+Franklin D. Roosevelt,Richard M. Nixon,6,undirected
+Franklin D. Roosevelt,Ronald Reagan,21,undirected
+Franklin D. Roosevelt,Warren G. Harding,14,undirected
+Franklin D. Roosevelt,Woodrow Wilson,28,undirected
+Franklin Pierce,Abraham Lincoln,2,undirected
+Franklin Pierce,Andrew Jackson,33,undirected
+Franklin Pierce,Andrew Johnson,9,undirected
+Franklin Pierce,James Buchanan,10,undirected
+Franklin Pierce,James K. Polk,1,undirected
+Franklin Pierce,John Quincy Adams,15,undirected
+Franklin Pierce,John Tyler,20,undirected
+Franklin Pierce,Martin Van Buren,1,undirected
+Franklin Pierce,Millard Fillmore,1,undirected
+Franklin Pierce,Rutherford B. Hayes,2,undirected
+Franklin Pierce,Ulysses S. Grant,23,undirected
+Franklin Pierce,William Harrison,8,undirected
+Franklin Pierce,Zachary Taylor,1,undirected
+George H. W. Bush,Barack Obama,20,undirected
+George H. W. Bush,Bill Clinton,9,undirected
+George H. W. Bush,Donald Trump,4,undirected
+George H. W. Bush,George W. Bush,3,undirected
+George H. W. Bush,Gerald Ford,5,undirected
+George H. W. Bush,Jimmy Carter,15,undirected
+George H. W. Bush,Joe Biden,6,undirected
+George H. W. Bush,Ronald Reagan,50,undirected
+George W. Bush,Barack Obama,32,undirected
+George W. Bush,Bill Clinton,12,undirected
+George W. Bush,George H. W. Bush,3,undirected
+George W. Bush,Joe Biden,2,undirected
+George W. Bush,Ronald Reagan,21,undirected
+George Washington,Andrew Jackson,30,undirected
+George Washington,James Madison,5,undirected
+George Washington,John Adams,33,undirected
+George Washington,Martin Van Buren,15,undirected
+George Washington,Millard Fillmore,2,undirected
+George Washington,Thomas Jefferson,29,undirected
+George Washington,Ulysses S. Grant,6,undirected
+George Washington,William Harrison,4,undirected
+Gerald Ford,Franklin D. Roosevelt,7,undirected
+Gerald Ford,George H. W. Bush,5,undirected
+Gerald Ford,Jimmy Carter,6,undirected
+Gerald Ford,John F. Kennedy,15,undirected
+Gerald Ford,Ronald Reagan,28,undirected
+Grover Cleveland,Benjamin Harrison,47,undirected
+Grover Cleveland,Chester A. Arthur,29,undirected
+Grover Cleveland,Herbert Hoover,1,undirected
+Grover Cleveland,Martin Van Buren,3,undirected
+Grover Cleveland,Rutherford B. Hayes,2,undirected
+Grover Cleveland,Theodore Roosevelt,4,undirected
+Grover Cleveland,Ulysses S. Grant,17,undirected
+Grover Cleveland,William McKinley,52,undirected
+Grover Cleveland,William Taft,20,undirected
+Harry S. Truman,Franklin D. Roosevelt,21,undirected
+Harry S. Truman,John F. Kennedy,2,undirected
+Harry S. Truman,Lyndon B. Johnson,23,undirected
+Harry S. Truman,Richard M. Nixon,3,undirected
+Harry S. Truman,Ronald Reagan,12,undirected
+Herbert Hoover,Calvin Coolidge,45,undirected
+Herbert Hoover,Franklin D. Roosevelt,19,undirected
+Herbert Hoover,Grover Cleveland,1,undirected
+Herbert Hoover,Theodore Roosevelt,13,undirected
+James A. Garfield,Benjamin Harrison,3,undirected
+James A. Garfield,Calvin Coolidge,1,undirected
+James A. Garfield,Chester A. Arthur,1,undirected
+James A. Garfield,Dwight D. Eisenhower,1,undirected
+James A. Garfield,Martin Van Buren,11,undirected
+James A. Garfield,Rutherford B. Hayes,9,undirected
+James A. Garfield,Theodore Roosevelt,14,undirected
+James A. Garfield,Warren G. Harding,4,undirected
+James A. Garfield,William McKinley,16,undirected
+James Buchanan,Andrew Jackson,23,undirected
+James Buchanan,Andrew Johnson,2,undirected
+James Buchanan,Franklin Pierce,10,undirected
+James Buchanan,James K. Polk,40,undirected
+James Buchanan,Rutherford B. Hayes,1,undirected
+James K. Polk,Andrew Jackson,50,undirected
+James K. Polk,Franklin Pierce,1,undirected
+James K. Polk,James Buchanan,40,undirected
+James K. Polk,James Madison,2,undirected
+James K. Polk,James Monroe,17,undirected
+James K. Polk,John Adams,7,undirected
+James K. Polk,John Quincy Adams,6,undirected
+James K. Polk,Martin Van Buren,11,undirected
+James K. Polk,Millard Fillmore,4,undirected
+James K. Polk,Thomas Jefferson,2,undirected
+James K. Polk,William McKinley,2,undirected
+James K. Polk,Zachary Taylor,2,undirected
+James Madison,Andrew Jackson,15,undirected
+James Madison,George Washington,5,undirected
+James Madison,James K. Polk,2,undirected
+James Madison,James Monroe,21,undirected
+James Madison,John Adams,2,undirected
+James Madison,Martin Van Buren,20,undirected
+James Monroe,Andrew Jackson,26,undirected
+James Monroe,James K. Polk,17,undirected
+James Monroe,James Madison,21,undirected
+James Monroe,John Quincy Adams,19,undirected
+James Monroe,Martin Van Buren,14,undirected
+Jimmy Carter,George H. W. Bush,15,undirected
+Jimmy Carter,Gerald Ford,6,undirected
+Jimmy Carter,Lyndon B. Johnson,36,undirected
+Jimmy Carter,Richard M. Nixon,10,undirected
+Jimmy Carter,Ronald Reagan,38,undirected
+Joe Biden,Barack Obama,50,undirected
+Joe Biden,Bill Clinton,10,undirected
+Joe Biden,Donald Trump,32,undirected
+Joe Biden,George H. W. Bush,6,undirected
+Joe Biden,George W. Bush,2,undirected
+Joe Biden,Ronald Reagan,18,undirected
+John Adams,Andrew Jackson,20,undirected
+John Adams,George Washington,33,undirected
+John Adams,James K. Polk,7,undirected
+John Adams,James Madison,2,undirected
+John Adams,Martin Van Buren,2,undirected
+John F. Kennedy,Dwight D. Eisenhower,30,undirected
+John F. Kennedy,Franklin D. Roosevelt,47,undirected
+John F. Kennedy,Gerald Ford,15,undirected
+John F. Kennedy,Harry S. Truman,2,undirected
+John F. Kennedy,Lyndon B. Johnson,19,undirected
+John F. Kennedy,Richard M. Nixon,4,undirected
+John F. Kennedy,Ronald Reagan,28,undirected
+John F. Kennedy,Warren G. Harding,28,undirected
+John F. Kennedy,Woodrow Wilson,2,undirected
+John Quincy Adams,Andrew Jackson,2,undirected
+John Quincy Adams,Franklin Pierce,15,undirected
+John Quincy Adams,James K. Polk,6,undirected
+John Quincy Adams,James Monroe,19,undirected
+John Quincy Adams,Martin Van Buren,18,undirected
+John Tyler,Andrew Jackson,25,undirected
+John Tyler,Franklin Pierce,20,undirected
+John Tyler,Martin Van Buren,42,undirected
+John Tyler,Rutherford B. Hayes,1,undirected
+John Tyler,Ulysses S. Grant,6,undirected
+John Tyler,William Harrison,1,undirected
+John Tyler,Zachary Taylor,2,undirected
+Lyndon B. Johnson,Franklin D. Roosevelt,7,undirected
+Lyndon B. Johnson,Harry S. Truman,23,undirected
+Lyndon B. Johnson,Jimmy Carter,36,undirected
+Lyndon B. Johnson,John F. Kennedy,19,undirected
+Lyndon B. Johnson,Richard M. Nixon,23,undirected
+Lyndon B. Johnson,Ronald Reagan,27,undirected
+Martin Van Buren,Andrew Jackson,58,undirected
+Martin Van Buren,Franklin Pierce,1,undirected
+Martin Van Buren,George Washington,15,undirected
+Martin Van Buren,Grover Cleveland,3,undirected
+Martin Van Buren,James A. Garfield,11,undirected
+Martin Van Buren,James K. Polk,11,undirected
+Martin Van Buren,James Madison,20,undirected
+Martin Van Buren,James Monroe,14,undirected
+Martin Van Buren,John Adams,2,undirected
+Martin Van Buren,John Quincy Adams,18,undirected
+Martin Van Buren,John Tyler,42,undirected
+Martin Van Buren,Thomas Jefferson,21,undirected
+Martin Van Buren,Ulysses S. Grant,5,undirected
+Martin Van Buren,William Harrison,15,undirected
+Millard Fillmore,Andrew Jackson,7,undirected
+Millard Fillmore,Chester A. Arthur,1,undirected
+Millard Fillmore,Franklin Pierce,1,undirected
+Millard Fillmore,George Washington,2,undirected
+Millard Fillmore,James K. Polk,4,undirected
+Millard Fillmore,Rutherford B. Hayes,18,undirected
+Millard Fillmore,Ulysses S. Grant,33,undirected
+Millard Fillmore,William McKinley,1,undirected
+Millard Fillmore,Zachary Taylor,28,undirected
+Richard M. Nixon,Franklin D. Roosevelt,6,undirected
+Richard M. Nixon,Harry S. Truman,3,undirected
+Richard M. Nixon,Jimmy Carter,10,undirected
+Richard M. Nixon,John F. Kennedy,4,undirected
+Richard M. Nixon,Lyndon B. Johnson,23,undirected
+Richard M. Nixon,Ronald Reagan,27,undirected
+Ronald Reagan,Barack Obama,58,undirected
+Ronald Reagan,Bill Clinton,15,undirected
+Ronald Reagan,Donald Trump,7,undirected
+Ronald Reagan,Dwight D. Eisenhower,13,undirected
+Ronald Reagan,Franklin D. Roosevelt,21,undirected
+Ronald Reagan,George H. W. Bush,50,undirected
+Ronald Reagan,George W. Bush,21,undirected
+Ronald Reagan,Gerald Ford,28,undirected
+Ronald Reagan,Harry S. Truman,12,undirected
+Ronald Reagan,Jimmy Carter,38,undirected
+Ronald Reagan,Joe Biden,18,undirected
+Ronald Reagan,John F. Kennedy,28,undirected
+Ronald Reagan,Lyndon B. Johnson,27,undirected
+Ronald Reagan,Richard M. Nixon,27,undirected
+Rutherford B. Hayes,Andrew Johnson,2,undirected
+Rutherford B. Hayes,Chester A. Arthur,26,undirected
+Rutherford B. Hayes,Franklin Pierce,2,undirected
+Rutherford B. Hayes,Grover Cleveland,2,undirected
+Rutherford B. Hayes,James A. Garfield,9,undirected
+Rutherford B. Hayes,James Buchanan,1,undirected
+Rutherford B. Hayes,John Tyler,1,undirected
+Rutherford B. Hayes,Millard Fillmore,18,undirected
+Rutherford B. Hayes,Ulysses S. Grant,54,undirected
+Rutherford B. Hayes,William McKinley,16,undirected
+Theodore Roosevelt,Abraham Lincoln,26,undirected
+Theodore Roosevelt,Benjamin Harrison,1,undirected
+Theodore Roosevelt,Calvin Coolidge,40,undirected
+Theodore Roosevelt,Dwight D. Eisenhower,1,undirected
+Theodore Roosevelt,Grover Cleveland,4,undirected
+Theodore Roosevelt,Herbert Hoover,13,undirected
+Theodore Roosevelt,James A. Garfield,14,undirected
+Theodore Roosevelt,William McKinley,15,undirected
+Theodore Roosevelt,William Taft,34,undirected
+Theodore Roosevelt,Woodrow Wilson,24,undirected
+Thomas Jefferson,Andrew Jackson,8,undirected
+Thomas Jefferson,George Washington,29,undirected
+Thomas Jefferson,James K. Polk,2,undirected
+Thomas Jefferson,Martin Van Buren,21,undirected
+Thomas Jefferson,Ulysses S. Grant,1,undirected
+Thomas Jefferson,William McKinley,2,undirected
+Ulysses S. Grant,Andrew Johnson,23,undirected
+Ulysses S. Grant,Benjamin Harrison,12,undirected
+Ulysses S. Grant,Chester A. Arthur,18,undirected
+Ulysses S. Grant,Franklin Pierce,23,undirected
+Ulysses S. Grant,George Washington,6,undirected
+Ulysses S. Grant,Grover Cleveland,17,undirected
+Ulysses S. Grant,John Tyler,6,undirected
+Ulysses S. Grant,Martin Van Buren,5,undirected
+Ulysses S. Grant,Millard Fillmore,33,undirected
+Ulysses S. Grant,Rutherford B. Hayes,54,undirected
+Ulysses S. Grant,Thomas Jefferson,1,undirected
+Ulysses S. Grant,William McKinley,38,undirected
+Ulysses S. Grant,William Taft,3,undirected
+Ulysses S. Grant,Zachary Taylor,19,undirected
+Warren G. Harding,Calvin Coolidge,4,undirected
+Warren G. Harding,Dwight D. Eisenhower,6,undirected
+Warren G. Harding,Franklin D. Roosevelt,14,undirected
+Warren G. Harding,James A. Garfield,4,undirected
+Warren G. Harding,John F. Kennedy,28,undirected
+Warren G. Harding,Woodrow Wilson,8,undirected
+William Harrison,Andrew Jackson,30,undirected
+William Harrison,Andrew Johnson,2,undirected
+William Harrison,Franklin Pierce,8,undirected
+William Harrison,George Washington,4,undirected
+William Harrison,John Tyler,1,undirected
+William Harrison,Martin Van Buren,15,undirected
+William McKinley,Benjamin Harrison,11,undirected
+William McKinley,Calvin Coolidge,6,undirected
+William McKinley,Chester A. Arthur,24,undirected
+William McKinley,Grover Cleveland,52,undirected
+William McKinley,James A. Garfield,16,undirected
+William McKinley,James K. Polk,2,undirected
+William McKinley,Millard Fillmore,1,undirected
+William McKinley,Rutherford B. Hayes,16,undirected
+William McKinley,Theodore Roosevelt,15,undirected
+William McKinley,Thomas Jefferson,2,undirected
+William McKinley,Ulysses S. Grant,38,undirected
+William McKinley,William Taft,20,undirected
+William McKinley,Zachary Taylor,5,undirected
+William Taft,Benjamin Harrison,10,undirected
+William Taft,Chester A. Arthur,11,undirected
+William Taft,Grover Cleveland,20,undirected
+William Taft,Theodore Roosevelt,34,undirected
+William Taft,Ulysses S. Grant,3,undirected
+William Taft,William McKinley,20,undirected
+Woodrow Wilson,Abraham Lincoln,6,undirected
+Woodrow Wilson,Calvin Coolidge,8,undirected
+Woodrow Wilson,Franklin D. Roosevelt,28,undirected
+Woodrow Wilson,John F. Kennedy,2,undirected
+Woodrow Wilson,Theodore Roosevelt,24,undirected
+Woodrow Wilson,Warren G. Harding,8,undirected
+Zachary Taylor,Andrew Jackson,3,undirected
+Zachary Taylor,Franklin Pierce,1,undirected
+Zachary Taylor,James K. Polk,2,undirected
+Zachary Taylor,John Tyler,2,undirected
+Zachary Taylor,Millard Fillmore,28,undirected
+Zachary Taylor,Ulysses S. Grant,19,undirected
+Zachary Taylor,William McKinley,5,undirected
